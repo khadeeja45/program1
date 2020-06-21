@@ -1,0 +1,4 @@
+In this program I have created a function named SIGMA2 that takes one number as
+ parameter to calculate the SIGMA2 for it and find the modulo for 109.
+for that it goes through two nested loops the inner loops find the dividers of the number that the outer
+loops iterates through and find the sum of squares of it and add it to the total.
